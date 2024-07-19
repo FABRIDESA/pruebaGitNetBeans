@@ -7,9 +7,8 @@ public class PruebaGitNetBeans {
         
         /*
         PROBANDO GIT 1
-        - voy a crear una clasePrinci en esto que seria la rama master (principal)
-        - Voy a crear un branch1 donde voy a crear una clase1
-        - y branch2 una clase2
+        - Voy a crear una rama llamada 'Cursos' donde voy a crear una clase 'Plomería'
+        - Voy a crear una rama llamada 'Especialidad' donde voy a crear una clase 'Plomero'
         */
         
     }
